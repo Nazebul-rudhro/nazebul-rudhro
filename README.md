@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Nazebul-rudhro/nazebul-rudhro/main/cover_picture_one.png](https://github.com/Nazebul-rudhro/nazebul-rudhro/blob/main/cover_picture_one.png)" width="100%" alt="MD. Nazmul Haque Rudhro Banner" />
+  <img src="https://github.com/Nazebul-rudhro/nazebul-rudhro/blob/main/cover_picture_one.png" width="100%" alt="MD. Nazmul Haque Rudhro Banner" />
   
   <br/>
 
